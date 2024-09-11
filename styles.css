@@ -25,6 +25,8 @@ header {
 
 .hero-section {
     animation: fadeIn 2s ease-in;
+    border:1px solit grey;
+    
 }
 
 .title {
