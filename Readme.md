@@ -1,4 +1,4 @@
-# 🌞 RxSun Solar System Installation - Company Website
+# 🌞 RaxSun Solar System Installation - Company Website
 
 Welcome to the official website project for **RxSun Solar System Installation**. This website aims to showcase the company's services in solar energy solutions, providing customers with the best in solar panel installation for homes, industries, and more.
 
